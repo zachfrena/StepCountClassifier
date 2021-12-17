@@ -1,4 +1,4 @@
-# Classifying step count: Fitness and Health Tracking with Garmin Smartwatch
+# Classifying Step Count Goals: Fitness and Health Tracking with Garmin Smartwatch
 
 ## 1. Question/Topic being investigated
 The topic I investigated was how effectively fitness and health outcomes can be predicted when provided metrics surrounding daily fitness activities. My reason for choosing this topic is that physical health and exercise has been a big part of my life and regular activity can have both immediate and long-term benefits. Being able to glean insight through data-centric processes is something of great interest to me and this project helped optimize my own physical health.
