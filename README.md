@@ -1,5 +1,7 @@
 # Classifying Step Count Goals: Fitness and Health Tracking with Garmin Smartwatch
 
+`FinalProject.ipynb` is the project notebook. It uses standard imports and prints out the project flow diagram from mglearn.
+
 ## 1. Question/Topic being investigated
 The topic I investigated was how effectively fitness and health outcomes can be predicted when provided metrics surrounding daily fitness activities. My reason for choosing this topic is that physical health and exercise has been a big part of my life and regular activity can have both immediate and long-term benefits. Being able to glean insight through data-centric processes is something of great interest to me and this project helped optimize my own physical health.
 The 5,000 step-per-day benchmark has been proven to assess an individual's general physical activity level. The Garmin Smartwatch (i.e. the data collection device) can accurately measure steps taken throughout the day, however it also has the ability to collect large amounts of data during activities and workouts (e.g. reps, sets, max heart rate, etc.).
